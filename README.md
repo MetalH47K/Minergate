@@ -4,6 +4,8 @@ Install and Run Minergate-CLI in Hidden Mode
 
 Full Guide can be found: https://talkisgeek.com/how-to-use-minergate-cli-in-hidden-mode-no-trace/
 
+// I'm currently rebuilting talkisgeek website. 
+
 _Host_: https://api.minergate.com
 
 ### Introduction
